@@ -1,1 +1,10 @@
 CLAUDE.md
+*.iml
+.gradle/
+build/
+local.properties
+.idea/
+.kotlin/
+captures/
+*.apk
+*.aab
